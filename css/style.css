@@ -240,7 +240,7 @@
 }
  .main_bt:hover, .main_bt:focus {
      background: #ad2101;
-     border: solid #ad2101 5px;
+     border: solid #6e0b1f 5px;
      color: #fff;
 }
 /**-- list icon --**/
@@ -1083,8 +1083,8 @@ background-repeat: no-repeat;
 }
  .text-bg a {
      font-size: 16px;
-border: #f4b328 solid 1px;
-background-color: #f4b328;
+border: #24dd24 solid 1px;
+background-color: #d79d1f;
 color: #fff;
 padding: 9px 0px;
 max-width: 171px;
