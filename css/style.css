@@ -899,7 +899,7 @@
      visibility: hidden;
      width: 240px;
      z-index: 999;
-     background: #fff;
+     background:#114c7d;
      -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
      box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
 }
@@ -1041,7 +1041,7 @@ background-repeat: no-repeat;
 }
  
  .header-top {
-     background:url(../images/banner2.jpg);
+     background:url(../images/esc.png);
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-bottom: 50px;
@@ -1156,7 +1156,7 @@ margin-right: 10px;
 .carousel-control-prev {display: none;}
 /** about section **/
  .about {
-     background-color: #fff;
+     background-color: hsl(23, 96%, 48%);
      padding-top: 90px;
      
 }
@@ -1175,7 +1175,7 @@ margin-right: 10px;
  .about .about-box p {
      font-size: 17px;
      line-height: 28px;
-     color: #000;
+     color: #ebebf1;
      padding: 40px 0px;
 }
 
@@ -1183,7 +1183,7 @@ margin-right: 10px;
      font-size: 16px;
 border: #f4b328 solid 1px;
 background-color: #f4b328;
-color: #fff;
+color: #2113a3;
 padding: 9px 0px;
 max-width: 171px;
 width: 100%;
@@ -1263,10 +1263,10 @@ border-radius: 30px;
 /** Courses section **/
  .Courses {
      padding-top: 90px;
-     background: #fff;
+     background: #fcfbff;
 }
  .box_bg {
-     background: #c3c3c3;
+     background: hsl(240, 60%, 99%);
      padding: 10px 30px 30px 0px;
     display: inline-block;
     width: 100%;
@@ -1437,7 +1437,7 @@ margin-top: 20px;
 .map figure img {width: 100%;}
 
  .white_bg {
-     background-color: #fff;
+     background-color: #290cd0;
      padding: 40px 30px 30px 30px 
 }
  .contact .titlepage {
